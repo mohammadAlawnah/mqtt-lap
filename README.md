@@ -135,6 +135,7 @@ Below is the screenshot showing the **publisher** and **subscriber** working tog
 
 The project folder is organized as follows:
 
+```
 mqtt-lab/
 │── publishers/
 │ ├── temp_publisher.py
@@ -152,7 +153,7 @@ mqtt-lab/
 │ ├── temp_pubAndsub.png
 │ ├── humidity_pubAndSub.png
 └ └── people_count_pubAndSub.png
-
+```
 
 ---
 
